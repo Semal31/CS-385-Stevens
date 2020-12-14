@@ -1,0 +1,3 @@
+D:/Shared With Lubuntu/ClionProjects/InversionCounter/cmake-build-debug/CMakeFiles/InversionCounter.dir
+D:/Shared With Lubuntu/ClionProjects/InversionCounter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Shared With Lubuntu/ClionProjects/InversionCounter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
