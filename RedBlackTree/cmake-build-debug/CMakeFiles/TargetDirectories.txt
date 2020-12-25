@@ -1,3 +1,0 @@
-D:/Shared With Lubuntu/ClionProjects/RedBlackTree/cmake-build-debug/CMakeFiles/RedBlackTree.dir
-D:/Shared With Lubuntu/ClionProjects/RedBlackTree/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Shared With Lubuntu/ClionProjects/RedBlackTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

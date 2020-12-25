@@ -1,4 +1,0 @@
-C:\Users\semal\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Shared With Lubuntu\ClionProjects\RedBlackTree"
--- Configuring done
--- Generating done
--- Build files have been written to: D:/Shared With Lubuntu/ClionProjects/RedBlackTree/cmake-build-debug
